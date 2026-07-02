@@ -7,10 +7,10 @@ This project analyzes ShopEasy customer, marketing, and sales data to identify t
 The analysis was conducted using SQL, Power BI, and Python to support data-driven business decision-making.
 
 ---
-![Dashboard]([Screenshot 2026-06-29 200456.png](https://github.com/AmiraaAhmed27/ShopEasy-Sales-Analysis-Final-Project-/blob/main/Screenshot%202026-06-29%20200456.png))
+![Dashboard](Screenshot%202026-06-29%20200456.png))
 ## Dataset
 
-The project database contains five tables:
+The project database contains five taحbles:
 
 - Customers
 - Products
